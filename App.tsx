@@ -58,6 +58,9 @@ const App: React.FC = () => {
           <p className="text-gray-500 font-handwritten text-center text-xl md:text-2xl italic px-4">
             Meant for your eyes only, my love...
           </p>
+          <p className="text-gray-500 font-handwritten text-center text-xl md:text-2xl italic px-4">
+            Click on heart to open the letter ❤️
+          </p>
         </div>
       )}
 
